@@ -54,5 +54,13 @@
     "decimals": 18,
     "chainId": "0x534e5f4d41494e",
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png"
+  },
+  {
+    "name": "StarkCat",
+    "address": "0x06c2fd1bcc03e54e4e23b3ffd5f6a4c65a9397996b718e633283d6d4e77a5257",
+    "symbol": "SCAT",
+    "decimals": 18,
+    "chainId": "0x534e5f4d41494e",
+    "logoURI": "https://static.wixstatic.com/media/7491af_c2928d2709224474b82294affcb44958~mv2.png"
   }
 ]
